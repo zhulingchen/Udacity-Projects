@@ -30,5 +30,13 @@ Below are my finished projects for a variety of Udacity Nanodegrees.
 ## Machine Learning Engineer Nanodegree Program
 * Project 1: [Deploy a Sentiment Analysis Model](https://github.com/zhulingchen/sagemaker-deployment)
 * Project 2: [Plagiarism Detector](https://github.com/zhulingchen/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection)
-* Project 3: [Dog Breed Classifier (PyTorch)](https://github.com/zhulingchen/deep-learning-v2-pytorch/tree/master/project-dog-classification)
+* Project 3: [Capstone - Dog Breed Classifier (PyTorch)](https://github.com/zhulingchen/deep-learning-v2-pytorch/tree/master/project-dog-classification)
 * [Certificate](certificates/machine_learning_engineer.pdf)
+
+## Cloud DevOps Engineer
+* Project 1: [Deploy Static Website on AWS](https://github.com/zhulingchen/Udacity-Cloud-DevOps-Engineer-Nanodegree-Project-1)
+* Project 2: [Deploy a high-availability web app using CloudFormation](https://github.com/zhulingchen/Udacity-Cloud-DevOps-Engineer-Nanodegree-Project-2)
+* Project 3: [Give Your Application Auto-Deploy Superpowers](https://github.com/zhulingchen/cdond-c3-projectstarter)
+* Project 4: [Operationalize a Machine Learning Microservice API](https://github.com/zhulingchen/DevOps_Microservices)
+* Project 5: [Capstone - CI/CD with Jenkins](https://github.com/zhulingchen/Udacity-Cloud-DevOps-Engineer-Nanodegree-Capstone)
+* [Certificate](certificates/cloud_devops_engineer.pdf)
