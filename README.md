@@ -72,7 +72,7 @@ Below are my finished projects for a variety of Udacity Nanodegrees.
 * Project 5: [Capstone - CI/CD with Jenkins](https://github.com/zhulingchen/Udacity-Cloud-DevOps-Engineer-Nanodegree-Capstone)
 * [Certificate](certificates/cloud_devops_engineer.pdf)
 
-## Cloud DevOps Engineer
+## DevOps Engineer for Microsoft Azure
 * Project 1: [Deploying a Web Server in Azure](https://github.com/zhulingchen/nd082-Azure-Cloud-DevOps-Starter-Code/tree/master/C1-Azure%20Infrastructure%20Operations/project/starter_files)
 * Project 2: [Building a CI/CD Pipeline](https://github.com/zhulingchen/nd082-Azure-Cloud-DevOps-Starter-Code/tree/master/C2-Agile%20Development%20with%20Azure/project/starter_files/flask-sklearn)
 * Project 3: [Ensuring Quality Releases](https://github.com/zhulingchen/Azure-Cloud-DevOps-Ensuring-Quality-Releases)
